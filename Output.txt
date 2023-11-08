@@ -1,0 +1,1212 @@
+Script started on 2023-11-08 12:59:07-0600
+]0;brw020@turing: ~/OS/GroceryStore[01;32mbrw020@turing[00m:[01;34m~/OS/GroceryStore[00m$ java Gro[KoceryStore 
+Usage: java GroceryStore <sleep time> <number of customers>
+Using default values
+Sleep time: 20000
+Number of customers: 100
+Customer4Entered the store
+	Customer 4 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 4 is in the produce section
+		Number of customers in the produce section: 1
+Customer1Entered the store
+	Customer 1 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 1 is in the produce section
+		Number of customers in the produce section: 2
+Customer62Entered the store
+	Customer 62 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 62 is in the produce section
+		Number of customers in the produce section: 3
+Customer79Entered the store
+	Customer 79 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 79 is in the produce section
+		Number of customers in the produce section: 4
+Customer9Entered the store
+	Customer 9 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 9 is in the produce section
+		Number of customers in the produce section: 5
+Customer24Entered the store
+	Customer 24 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 24 is in the produce section
+		Number of customers in the produce section: 6
+			Customer 79 is in the general section
+			Number of customers in the general section: 1
+Customer49Entered the store
+	Customer 49 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 49 is in the produce section
+		Number of customers in the produce section: 6
+			Customer 49 is in the general section
+			Number of customers in the general section: 2
+Customer57Entered the store
+	Customer 57 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 57 is in the produce section
+		Number of customers in the produce section: 6
+Customer42Entered the store
+	Customer 42 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 42 is in the produce section
+		Number of customers in the produce section: 7
+Customer51Entered the store
+	Customer 51 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 51 is in the produce section
+		Number of customers in the produce section: 8
+			Customer 1 is in the general section
+			Number of customers in the general section: 3
+Customer58Entered the store
+	Customer 58 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 58 is in the produce section
+		Number of customers in the produce section: 8
+Customer17Entered the store
+	Customer 17 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 17 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 9 is in the general section
+			Number of customers in the general section: 4
+			Customer 4 is in the general section
+			Number of customers in the general section: 5
+Customer64Entered the store
+	Customer 64 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 64 is in the produce section
+		Number of customers in the produce section: 8
+			Customer 62 is in the general section
+			Number of customers in the general section: 6
+			Customer 57 is in the general section
+			Number of customers in the general section: 7
+			Customer 58 is in the general section
+			Number of customers in the general section: 8
+Customer92Entered the store
+	Customer 92 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 92 is in the produce section
+		Number of customers in the produce section: 6
+Customer 1 is in the frozen section
+Number of customers in the frozen section: 1
+Customer84Entered the store
+	Customer 84 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 84 is in the produce section
+		Number of customers in the produce section: 7
+Customer52Entered the store
+	Customer 52 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 52 is in the produce section
+		Number of customers in the produce section: 8
+Customer87Entered the store
+	Customer 87 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 87 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 52 is in the general section
+			Number of customers in the general section: 8
+Customer 9 is in the frozen section
+Number of customers in the frozen section: 2
+Customer96Entered the store
+	Customer 96 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 96 is in the produce section
+		Number of customers in the produce section: 9
+Customer 58 is in the frozen section
+Number of customers in the frozen section: 3
+Customer 4 is in the frozen section
+Number of customers in the frozen section: 4
+Customer69Entered the store
+	Customer 69 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 69 is in the produce section
+		Number of customers in the produce section: 10
+			Customer 24 is in the general section
+			Number of customers in the general section: 6
+			Customer 92 is in the general section
+			Number of customers in the general section: 7
+Customer 57 is in the frozen section
+Number of customers in the frozen section: 5
+Customer0Entered the store
+	Customer 0 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 0 is in the produce section
+		Number of customers in the produce section: 9
+Customer54Entered the store
+	Customer 54 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 54 is in the produce section
+		Number of customers in the produce section: 10
+Customer 58 is in the cashier section
+Number of customers in the cashier section: 1
+Customer 9 is in the cashier section
+Number of customers in the cashier section: 2
+Customer53Entered the store
+	Customer 53 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 53 is in the produce section
+		Number of customers in the produce section: 11
+Customer 79 is in the frozen section
+Number of customers in the frozen section: 4
+Customer13Entered the store
+	Customer 13 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 13 is in the produce section
+		Number of customers in the produce section: 12
+Customer 58 has left the store
+			Customer 54 is in the general section
+			Number of customers in the general section: 6
+			Customer 84 is in the general section
+			Number of customers in the general section: 7
+Customer99Entered the store
+	Customer 99 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 99 is in the produce section
+		Number of customers in the produce section: 11
+			Customer 42 is in the general section
+			Number of customers in the general section: 8
+			Customer 51 is in the general section
+			Number of customers in the general section: 9
+Customer 49 is in the frozen section
+Number of customers in the frozen section: 5
+Customer 54 is in the frozen section
+Number of customers in the frozen section: 6
+Customer 57 is in the cashier section
+Number of customers in the cashier section: 2
+Customer72Entered the store
+	Customer 72 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 72 is in the produce section
+		Number of customers in the produce section: 10
+Customer40Entered the store
+	Customer 40 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 40 is in the produce section
+		Number of customers in the produce section: 11
+			Customer 17 is in the general section
+			Number of customers in the general section: 8
+			Customer 53 is in the general section
+			Number of customers in the general section: 9
+Customer 92 is in the frozen section
+Number of customers in the frozen section: 6
+Customer 62 is in the frozen section
+Number of customers in the frozen section: 7
+Customer 1 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 9 has left the store
+			Customer 13 is in the general section
+			Number of customers in the general section: 8
+Customer 51 is in the frozen section
+Number of customers in the frozen section: 7
+			Customer 0 is in the general section
+			Number of customers in the general section: 8
+			Customer 40 is in the general section
+			Number of customers in the general section: 9
+Customer16Entered the store
+	Customer 16 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 16 is in the produce section
+		Number of customers in the produce section: 7
+Customer46Entered the store
+	Customer 46 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 46 is in the produce section
+		Number of customers in the produce section: 8
+Customer 84 is in the frozen section
+Number of customers in the frozen section: 8
+Customer 17 is in the frozen section
+Number of customers in the frozen section: 9
+Customer 1 has left the store
+			Customer 72 is in the general section
+			Number of customers in the general section: 8
+Customer59Entered the store
+	Customer 59 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 59 is in the produce section
+		Number of customers in the produce section: 8
+			Customer 16 is in the general section
+			Number of customers in the general section: 9
+Customer68Entered the store
+	Customer 68 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 68 is in the produce section
+		Number of customers in the produce section: 8
+Customer43Entered the store
+	Customer 43 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 43 is in the produce section
+		Number of customers in the produce section: 9
+Customer 79 is in the cashier section
+Number of customers in the cashier section: 2
+			Customer 64 is in the general section
+			Number of customers in the general section: 10
+Customer6Entered the store
+	Customer 6 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 6 is in the produce section
+		Number of customers in the produce section: 9
+Customer 52 is in the frozen section
+Number of customers in the frozen section: 9
+			Customer 87 is in the general section
+			Number of customers in the general section: 10
+Customer15Entered the store
+	Customer 15 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 15 is in the produce section
+		Number of customers in the produce section: 9
+Customer 92 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 62 is in the cashier section
+Number of customers in the cashier section: 4
+Customer98Entered the store
+	Customer 98 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 98 is in the produce section
+		Number of customers in the produce section: 10
+Customer 79 has left the store
+Customer74Entered the store
+	Customer 74 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 74 is in the produce section
+		Number of customers in the produce section: 11
+Customer27Entered the store
+	Customer 27 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 27 is in the produce section
+		Number of customers in the produce section: 12
+Customer 16 is in the frozen section
+Number of customers in the frozen section: 8
+Customer 24 is in the frozen section
+Number of customers in the frozen section: 9
+Customer 51 is in the cashier section
+Number of customers in the cashier section: 4
+Customer20Entered the store
+	Customer 20 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 20 is in the produce section
+		Number of customers in the produce section: 13
+Customer 87 is in the frozen section
+Number of customers in the frozen section: 9
+			Customer 99 is in the general section
+			Number of customers in the general section: 8
+			Customer 43 is in the general section
+			Number of customers in the general section: 9
+Customer 13 is in the frozen section
+Number of customers in the frozen section: 10
+Customer 4 is in the cashier section
+Number of customers in the cashier section: 5
+Customer12Entered the store
+	Customer 12 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 12 is in the produce section
+		Number of customers in the produce section: 12
+			Customer 69 is in the general section
+			Number of customers in the general section: 9
+Customer77Entered the store
+	Customer 77 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 77 is in the produce section
+		Number of customers in the produce section: 12
+			Customer 96 is in the general section
+			Number of customers in the general section: 10
+Customer 57 has left the store
+Customer83Entered the store
+	Customer 83 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 83 is in the produce section
+		Number of customers in the produce section: 12
+Customer 69 is in the frozen section
+Number of customers in the frozen section: 10
+Customer 42 is in the frozen section
+Number of customers in the frozen section: 11
+			Customer 46 is in the general section
+			Number of customers in the general section: 9
+Customer39Entered the store
+	Customer 39 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 39 is in the produce section
+		Number of customers in the produce section: 12
+			Customer 20 is in the general section
+			Number of customers in the general section: 10
+Customer 49 is in the cashier section
+Number of customers in the cashier section: 5
+Customer 53 is in the frozen section
+Number of customers in the frozen section: 11
+			Customer 6 is in the general section
+			Number of customers in the general section: 10
+Customer 49 has left the store
+Customer 51 has left the store
+Customer88Entered the store
+	Customer 88 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 88 is in the produce section
+		Number of customers in the produce section: 11
+Customer 40 is in the frozen section
+Number of customers in the frozen section: 12
+			Customer 83 is in the general section
+			Number of customers in the general section: 10
+Customer 62 has left the store
+			Customer 74 is in the general section
+			Number of customers in the general section: 11
+Customer28Entered the store
+	Customer 28 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 28 is in the produce section
+		Number of customers in the produce section: 10
+Customer 54 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 92 has left the store
+Customer65Entered the store
+	Customer 65 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 65 is in the produce section
+		Number of customers in the produce section: 11
+Customer 46 is in the frozen section
+Number of customers in the frozen section: 12
+Customer97Entered the store
+	Customer 97 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 97 is in the produce section
+		Number of customers in the produce section: 12
+Customer 17 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 83 is in the frozen section
+Number of customers in the frozen section: 12
+Customer45Entered the store
+	Customer 45 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 45 is in the produce section
+		Number of customers in the produce section: 13
+Customer67Entered the store
+	Customer 67 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 67 is in the produce section
+		Number of customers in the produce section: 14
+Customer25Entered the store
+	Customer 25 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 25 is in the produce section
+		Number of customers in the produce section: 15
+Customer 53 is in the cashier section
+Number of customers in the cashier section: 4
+Customer 0 is in the frozen section
+Number of customers in the frozen section: 12
+Customer31Entered the store
+	Customer 31 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 31 is in the produce section
+		Number of customers in the produce section: 16
+Customer90Entered the store
+	Customer 90 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 90 is in the produce section
+		Number of customers in the produce section: 17
+Customer 20 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 72 is in the frozen section
+Number of customers in the frozen section: 14
+			Customer 97 is in the general section
+			Number of customers in the general section: 7
+Customer85Entered the store
+	Customer 85 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 85 is in the produce section
+		Number of customers in the produce section: 17
+Customer 87 is in the cashier section
+Number of customers in the cashier section: 5
+Customer86Entered the store
+	Customer 86 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 86 is in the produce section
+		Number of customers in the produce section: 18
+			Customer 98 is in the general section
+			Number of customers in the general section: 8
+Customer 97 is in the frozen section
+Number of customers in the frozen section: 14
+Customer 4 has left the store
+			Customer 15 is in the general section
+			Number of customers in the general section: 8
+Customer 96 is in the frozen section
+Number of customers in the frozen section: 15
+Customer 74 is in the frozen section
+Number of customers in the frozen section: 16
+			Customer 28 is in the general section
+			Number of customers in the general section: 7
+			Customer 68 is in the general section
+			Number of customers in the general section: 8
+Customer 69 is in the cashier section
+Number of customers in the cashier section: 5
+Customer 16 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 40 is in the cashier section
+Number of customers in the cashier section: 7
+			Customer 86 is in the general section
+			Number of customers in the general section: 9
+Customer30Entered the store
+	Customer 30 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 30 is in the produce section
+		Number of customers in the produce section: 14
+Customer 84 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 40 has left the store
+Customer 0 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 97 is in the cashier section
+Number of customers in the cashier section: 9
+Customer 97 has left the store
+			Customer 59 is in the general section
+			Number of customers in the general section: 10
+Customer 68 is in the frozen section
+Number of customers in the frozen section: 11
+			Customer 30 is in the general section
+			Number of customers in the general section: 10
+Customer 13 is in the cashier section
+Number of customers in the cashier section: 9
+Customer 87 has left the store
+Customer 52 is in the cashier section
+Number of customers in the cashier section: 9
+Customer63Entered the store
+	Customer 63 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 63 is in the produce section
+		Number of customers in the produce section: 13
+Customer 46 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 31 is in the general section
+			Number of customers in the general section: 11
+Customer 64 is in the frozen section
+Number of customers in the frozen section: 9
+			Customer 63 is in the general section
+			Number of customers in the general section: 11
+Customer 17 has left the store
+Customer32Entered the store
+	Customer 32 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 32 is in the produce section
+		Number of customers in the produce section: 12
+Customer 28 is in the frozen section
+Number of customers in the frozen section: 10
+Customer 59 is in the frozen section
+Number of customers in the frozen section: 11
+Customer 96 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 6 is in the frozen section
+Number of customers in the frozen section: 11
+Customer 30 is in the frozen section
+Number of customers in the frozen section: 12
+Customer 99 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 27 is in the general section
+			Number of customers in the general section: 7
+			Customer 88 is in the general section
+			Number of customers in the general section: 8
+			Customer 25 is in the general section
+			Number of customers in the general section: 9
+Customer 43 is in the frozen section
+Number of customers in the frozen section: 14
+			Customer 77 is in the general section
+			Number of customers in the general section: 9
+Customer 16 has left the store
+Customer 24 is in the cashier section
+Number of customers in the cashier section: 10
+Customer78Entered the store
+	Customer 78 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 78 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 12 is in the general section
+			Number of customers in the general section: 10
+Customer 52 has left the store
+Customer 83 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 54 has left the store
+Customer 84 has left the store
+Customer 13 has left the store
+Customer44Entered the store
+	Customer 44 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 44 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 67 is in the general section
+			Number of customers in the general section: 11
+Customer37Entered the store
+	Customer 37 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 37 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 39 is in the general section
+			Number of customers in the general section: 12
+Customer 98 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 42 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 86 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 32 is in the general section
+			Number of customers in the general section: 11
+Customer 74 is in the cashier section
+Number of customers in the cashier section: 9
+Customer 72 is in the cashier section
+Number of customers in the cashier section: 10
+Customer95Entered the store
+	Customer 95 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 95 is in the produce section
+		Number of customers in the produce section: 8
+Customer76Entered the store
+	Customer 76 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 76 is in the produce section
+		Number of customers in the produce section: 9
+Customer 12 is in the frozen section
+Number of customers in the frozen section: 12
+Customer 88 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 27 is in the frozen section
+Number of customers in the frozen section: 14
+			Customer 45 is in the general section
+			Number of customers in the general section: 9
+Customer 69 has left the store
+Customer 64 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 65 is in the general section
+			Number of customers in the general section: 10
+Customer 83 has left the store
+Customer 6 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 77 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 72 has left the store
+Customer7Entered the store
+	Customer 7 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 7 is in the produce section
+		Number of customers in the produce section: 8
+Customer35Entered the store
+	Customer 35 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 35 is in the produce section
+		Number of customers in the produce section: 9
+Customer81Entered the store
+	Customer 81 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 81 is in the produce section
+		Number of customers in the produce section: 10
+Customer 30 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 53 has left the store
+Customer 45 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 35 is in the general section
+			Number of customers in the general section: 9
+Customer 68 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 78 is in the general section
+			Number of customers in the general section: 10
+Customer 25 is in the frozen section
+Number of customers in the frozen section: 13
+Customer22Entered the store
+	Customer 22 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 22 is in the produce section
+		Number of customers in the produce section: 9
+Customer82Entered the store
+	Customer 82 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 82 is in the produce section
+		Number of customers in the produce section: 10
+Customer18Entered the store
+	Customer 18 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 18 is in the produce section
+		Number of customers in the produce section: 11
+			Customer 85 is in the general section
+			Number of customers in the general section: 10
+Customer 39 is in the frozen section
+Number of customers in the frozen section: 14
+Customer 30 has left the store
+Customer 59 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 44 is in the general section
+			Number of customers in the general section: 10
+			Customer 95 is in the general section
+			Number of customers in the general section: 11
+Customer 15 is in the frozen section
+Number of customers in the frozen section: 14
+Customer 35 is in the frozen section
+Number of customers in the frozen section: 15
+			Customer 90 is in the general section
+			Number of customers in the general section: 10
+Customer 67 is in the frozen section
+Number of customers in the frozen section: 16
+			Customer 81 is in the general section
+			Number of customers in the general section: 10
+			Customer 37 is in the general section
+			Number of customers in the general section: 11
+Customer8Entered the store
+	Customer 8 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 8 is in the produce section
+		Number of customers in the produce section: 6
+Customer10Entered the store
+	Customer 10 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 10 is in the produce section
+		Number of customers in the produce section: 7
+Customer 78 is in the frozen section
+Number of customers in the frozen section: 17
+Customer 65 is in the frozen section
+Number of customers in the frozen section: 18
+			Customer 76 is in the general section
+			Number of customers in the general section: 10
+Customer 0 has left the store
+Customer 99 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 81 is in the frozen section
+Number of customers in the frozen section: 18
+Customer56Entered the store
+	Customer 56 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 56 is in the produce section
+		Number of customers in the produce section: 7
+Customer47Entered the store
+	Customer 47 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 47 is in the produce section
+		Number of customers in the produce section: 8
+Customer 96 has left the store
+Customer 20 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 95 is in the frozen section
+Number of customers in the frozen section: 18
+Customer38Entered the store
+	Customer 38 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 38 is in the produce section
+		Number of customers in the produce section: 9
+Customer 32 is in the frozen section
+Number of customers in the frozen section: 19
+			Customer 7 is in the general section
+			Number of customers in the general section: 8
+Customer 31 is in the frozen section
+Number of customers in the frozen section: 20
+Customer 85 is in the frozen section
+Number of customers in the frozen section: 21
+Customer26Entered the store
+	Customer 26 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 26 is in the produce section
+		Number of customers in the produce section: 9
+			Customer 56 is in the general section
+			Number of customers in the general section: 7
+Customer3Entered the store
+	Customer 3 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 3 is in the produce section
+		Number of customers in the produce section: 9
+Customer 6 has left the store
+Customer 43 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 46 has left the store
+Customer 98 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 68 has left the store
+Customer 86 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 44 is in the frozen section
+Number of customers in the frozen section: 19
+			Customer 82 is in the general section
+			Number of customers in the general section: 7
+Customer 63 is in the frozen section
+Number of customers in the frozen section: 20
+			Customer 10 is in the general section
+			Number of customers in the general section: 7
+Customer2Entered the store
+	Customer 2 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 2 is in the produce section
+		Number of customers in the produce section: 8
+Customer 64 has left the store
+Customer 12 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 42 has left the store
+Customer 95 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 74 has left the store
+Customer 39 is in the cashier section
+Number of customers in the cashier section: 10
+Customer93Entered the store
+	Customer 93 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 93 is in the produce section
+		Number of customers in the produce section: 9
+Customer41Entered the store
+	Customer 41 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 41 is in the produce section
+		Number of customers in the produce section: 10
+Customer29Entered the store
+	Customer 29 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 29 is in the produce section
+		Number of customers in the produce section: 11
+Customer33Entered the store
+	Customer 33 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 33 is in the produce section
+		Number of customers in the produce section: 12
+Customer 24 has left the store
+Customer 35 is in the cashier section
+Number of customers in the cashier section: 10
+Customer61Entered the store
+	Customer 61 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 61 is in the produce section
+		Number of customers in the produce section: 13
+Customer 37 is in the frozen section
+Number of customers in the frozen section: 17
+Customer55Entered the store
+	Customer 55 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 55 is in the produce section
+		Number of customers in the produce section: 14
+			Customer 33 is in the general section
+			Number of customers in the general section: 7
+			Customer 29 is in the general section
+			Number of customers in the general section: 8
+Customer89Entered the store
+	Customer 89 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 89 is in the produce section
+		Number of customers in the produce section: 13
+Customer 82 is in the frozen section
+Number of customers in the frozen section: 18
+			Customer 47 is in the general section
+			Number of customers in the general section: 8
+Customer 90 is in the frozen section
+Number of customers in the frozen section: 19
+Customer 98 has left the store
+Customer 28 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 39 has left the store
+Customer 15 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 95 has left the store
+Customer 81 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 81 has left the store
+Customer 67 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 99 has left the store
+Customer 65 is in the cashier section
+Number of customers in the cashier section: 10
+Customer14Entered the store
+	Customer 14 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 14 is in the produce section
+		Number of customers in the produce section: 13
+			Customer 18 is in the general section
+			Number of customers in the general section: 8
+			Customer 8 is in the general section
+Customer94Entered the store
+	Customer 94 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 94 is in the produce section
+		Number of customers in the produce section: 12
+			Number of customers in the general section: 9
+Customer 20 has left the store
+Customer 88 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 29 is in the frozen section
+Number of customers in the frozen section: 14
+Customer36Entered the store
+	Customer 36 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 36 is in the produce section
+		Number of customers in the produce section: 13
+Customer34Entered the store
+	Customer 34 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 34 is in the produce section
+		Number of customers in the produce section: 14
+Customer 76 is in the frozen section
+Number of customers in the frozen section: 15
+Customer 56 is in the frozen section
+Number of customers in the frozen section: 16
+Customer 59 has left the store
+Customer 25 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 22 is in the general section
+			Number of customers in the general section: 7
+Customer 28 has left the store
+Customer 82 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 86 has left the store
+Customer 27 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 10 is in the frozen section
+Number of customers in the frozen section: 14
+Customer19Entered the store
+	Customer 19 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 19 is in the produce section
+		Number of customers in the produce section: 14
+Customer 47 is in the frozen section
+Number of customers in the frozen section: 15
+Customer 12 has left the store
+Customer 63 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 22 is in the frozen section
+Number of customers in the frozen section: 15
+Customer73Entered the store
+	Customer 73 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 73 is in the produce section
+		Number of customers in the produce section: 15
+Customer 15 has left the store
+Customer 45 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 88 has left the store
+Customer 78 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 43 has left the store
+Customer 32 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 18 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 41 is in the general section
+			Number of customers in the general section: 4
+			Customer 36 is in the general section
+			Number of customers in the general section: 5
+			Customer 26 is in the general section
+			Number of customers in the general section: 6
+Customer 32 has left the store
+Customer 77 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 7 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 3 is in the general section
+			Number of customers in the general section: 6
+			Customer 14 is in the general section
+			Number of customers in the general section: 7
+Customer 45 has left the store
+Customer 37 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 94 is in the general section
+			Number of customers in the general section: 8
+			Customer 38 is in the general section
+			Number of customers in the general section: 9
+Customer66Entered the store
+	Customer 66 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 66 is in the produce section
+		Number of customers in the produce section: 9
+Customer 3 is in the frozen section
+Number of customers in the frozen section: 13
+Customer48Entered the store
+	Customer 48 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 48 is in the produce section
+		Number of customers in the produce section: 10
+			Customer 93 is in the general section
+			Number of customers in the general section: 9
+Customer 25 has left the store
+Customer 44 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 89 is in the general section
+			Number of customers in the general section: 10
+Customer 38 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 67 has left the store
+Customer 10 is in the cashier section
+Number of customers in the cashier section: 10
+Customer80Entered the store
+	Customer 80 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 80 is in the produce section
+		Number of customers in the produce section: 9
+Customer 93 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 35 has left the store
+Customer 90 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 94 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 2 is in the general section
+			Number of customers in the general section: 8
+Customer 82 has left the store
+Customer 29 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 19 is in the general section
+			Number of customers in the general section: 9
+Customer 41 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 55 is in the general section
+			Number of customers in the general section: 9
+			Customer 61 is in the general section
+			Number of customers in the general section: 10
+Customer 10 has left the store
+Customer 31 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 48 is in the general section
+			Number of customers in the general section: 11
+Customer71Entered the store
+	Customer 71 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 71 is in the produce section
+		Number of customers in the produce section: 5
+Customer 77 has left the store
+Customer 85 is in the cashier section
+Number of customers in the cashier section: 10
+Customer70Entered the store
+	Customer 70 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 70 is in the produce section
+		Number of customers in the produce section: 6
+Customer 8 is in the frozen section
+Number of customers in the frozen section: 12
+Customer 37 has left the store
+Customer 7 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 33 is in the frozen section
+Number of customers in the frozen section: 12
+Customer 19 is in the frozen section
+Number of customers in the frozen section: 13
+Customer 89 is in the frozen section
+Number of customers in the frozen section: 14
+Customer75Entered the store
+	Customer 75 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 75 is in the produce section
+		Number of customers in the produce section: 7
+Customer 26 is in the frozen section
+Number of customers in the frozen section: 15
+Customer 85 has left the store
+Customer 18 is in the cashier section
+Number of customers in the cashier section: 10
+Customer60Entered the store
+	Customer 60 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 60 is in the produce section
+		Number of customers in the produce section: 8
+			Customer 34 is in the general section
+			Number of customers in the general section: 7
+			Customer 80 is in the general section
+			Number of customers in the general section: 8
+Customer 65 has left the store
+Customer 76 is in the cashier section
+Number of customers in the cashier section: 10
+Customer23Entered the store
+	Customer 23 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 23 is in the produce section
+		Number of customers in the produce section: 7
+Customer 27 has left the store
+Customer 94 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 55 is in the frozen section
+Number of customers in the frozen section: 13
+			Customer 60 is in the general section
+			Number of customers in the general section: 8
+Customer50Entered the store
+	Customer 50 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 50 is in the produce section
+		Number of customers in the produce section: 7
+Customer 76 has left the store
+Customer 41 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 94 has left the store
+Customer 22 is in the cashier section
+Number of customers in the cashier section: 10
+Customer21Entered the store
+	Customer 21 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 21 is in the produce section
+		Number of customers in the produce section: 8
+Customer11Entered the store
+	Customer 11 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 11 is in the produce section
+		Number of customers in the produce section: 9
+Customer 63 has left the store
+Customer 38 is in the cashier section
+Number of customers in the cashier section: 10
+Customer91Entered the store
+	Customer 91 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 91 is in the produce section
+		Number of customers in the produce section: 10
+Customer 78 has left the store
+Customer 47 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 36 is in the frozen section
+Number of customers in the frozen section: 10
+			Customer 11 is in the general section
+			Number of customers in the general section: 8
+			Customer 91 is in the general section
+			Number of customers in the general section: 9
+Customer5Entered the store
+	Customer 5 is in the waiting area
+	Number of customers in the waiting area: 1
+		Customer 5 is in the produce section
+		Number of customers in the produce section: 9
+Customer 41 has left the store
+Customer 89 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 66 is in the general section
+			Number of customers in the general section: 10
+Customer 89 has left the store
+Customer 56 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 47 has left the store
+Customer 33 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 14 is in the frozen section
+Customer 93 is in the cashier section
+Customer 38 has left the store
+Number of customers in the cashier section: 10
+Number of customers in the frozen section: 7
+Customer 44 has left the store
+Customer 19 is in the cashier section
+Number of customers in the cashier section: 10
+			Customer 23 is in the general section
+			Number of customers in the general section: 10
+			Customer 73 is in the general section
+			Number of customers in the general section: 11
+Customer 61 is in the frozen section
+Number of customers in the frozen section: 7
+Customer 60 is in the frozen section
+Number of customers in the frozen section: 8
+Customer 2 is in the frozen section
+Number of customers in the frozen section: 9
+Customer 93 has left the store
+Customer 3 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 80 is in the frozen section
+Number of customers in the frozen section: 9
+Customer 33 has left the store
+Customer 55 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 31 has left the store
+Customer 8 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 56 has left the store
+Customer 36 is in the cashier section
+Number of customers in the cashier section: 10
+Customer 29 has left the store
+Customer 90 has left the store
+Customer 11 is in the frozen section
+Number of customers in the frozen section: 7
+Customer 61 is in the cashier section
+Number of customers in the cashier section: 9
+Customer 61 has left the store
+Customer 23 is in the frozen section
+Number of customers in the frozen section: 7
+			Customer 5 is in the general section
+			Number of customers in the general section: 6
+Customer 48 is in the frozen section
+Number of customers in the frozen section: 8
+Customer 3 has left the store
+			Customer 71 is in the general section
+			Number of customers in the general section: 6
+Customer 26 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 48 is in the cashier section
+Number of customers in the cashier section: 9
+			Customer 75 is in the general section
+			Number of customers in the general section: 7
+			Customer 70 is in the general section
+			Number of customers in the general section: 8
+Customer 55 has left the store
+Customer 34 is in the frozen section
+Number of customers in the frozen section: 7
+Customer 26 has left the store
+Customer 18 has left the store
+Customer 36 has left the store
+Customer 5 is in the frozen section
+Number of customers in the frozen section: 8
+Customer 14 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 7 has left the store
+Customer 2 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 8 has left the store
+			Customer 21 is in the general section
+			Number of customers in the general section: 7
+Customer 80 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 70 is in the frozen section
+Number of customers in the frozen section: 6
+			Customer 50 is in the general section
+			Number of customers in the general section: 7
+Customer 66 is in the frozen section
+Number of customers in the frozen section: 7
+Customer 5 is in the cashier section
+Number of customers in the cashier section: 7
+Customer 22 has left the store
+Customer 60 is in the cashier section
+Number of customers in the cashier section: 7
+Customer 23 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 5 has left the store
+Customer 2 has left the store
+Customer 91 is in the frozen section
+Number of customers in the frozen section: 5
+Customer 11 is in the cashier section
+Number of customers in the cashier section: 7
+Customer 34 is in the cashier section
+Number of customers in the cashier section: 8
+Customer 11 has left the store
+Customer 19 has left the store
+Customer 70 is in the cashier section
+Number of customers in the cashier section: 7
+Customer 73 is in the frozen section
+Number of customers in the frozen section: 3
+Customer 48 has left the store
+Customer 91 is in the cashier section
+Number of customers in the cashier section: 7
+Customer 14 has left the store
+Customer 71 is in the frozen section
+Number of customers in the frozen section: 3
+Customer 80 has left the store
+Customer 71 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 23 has left the store
+Customer 75 is in the frozen section
+Number of customers in the frozen section: 3
+Customer 21 is in the frozen section
+Number of customers in the frozen section: 4
+Customer 50 is in the frozen section
+Number of customers in the frozen section: 5
+Customer 60 has left the store
+Customer 34 has left the store
+Customer 71 has left the store
+Customer 66 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 73 is in the cashier section
+Number of customers in the cashier section: 4
+Customer 21 is in the cashier section
+Number of customers in the cashier section: 5
+Customer 50 is in the cashier section
+Number of customers in the cashier section: 6
+Customer 70 has left the store
+Customer 21 has left the store
+Customer 91 has left the store
+Customer 73 has left the store
+Customer 75 is in the cashier section
+Number of customers in the cashier section: 3
+Customer 66 has left the store
+Customer 75 has left the store
+Customer 50 has left the store
+All customers have left the store
+Total time: 16060 milliseconds
+]0;brw020@turing: ~/OS/GroceryStore[01;32mbrw020@turing[00m:[01;34m~/OS/GroceryStore[00m$ ex[K[Kexti[K[Kit
+exit
+
+Script done on 2023-11-08 12:59:35-0600
