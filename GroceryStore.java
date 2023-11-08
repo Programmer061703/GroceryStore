@@ -241,8 +241,8 @@ public class GroceryStore{
                 numInFrozen++;
                 numeInGeneral--;
 
-                System.out.println("Customer " + id + " is in the frozen section");
-                System.out.println("Number of customers in the frozen section: " + numInFrozen);
+                System.out.println("\t\t\tCustomer " + id + " is in the frozen section");
+                System.out.println("\t\t\tNumber of customers in the frozen section: " + numInFrozen);
 
                 Mgeneral.release();
                 Mfrozen.release();
@@ -270,8 +270,8 @@ public class GroceryStore{
                 numInCash++;
                 numInFrozen--;
 
-                System.out.println("Customer " + id + " is in the cashier section");
-                System.out.println("Number of customers in the cashier section: " + numInCash);
+                System.out.println("\t\t\t\tCustomer " + id + " is in the cashier section");
+                System.out.println("\t\t\t\tNumber of customers in the cashier section: " + numInCash);
 
                 Mfrozen.release();
                 Mcashier.release();
