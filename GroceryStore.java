@@ -23,7 +23,7 @@ public class GroceryStore{
 
     public static void main(String[] args){
 
-        int sleepTime = 20000; 
+        int sleepTime = 20;
         int numCustomers = 100;
 
 
@@ -65,7 +65,7 @@ public class GroceryStore{
 
            if(elapsedTime < sleepTime){
             
-            Customer customer = new Customer(i, waitingRoom, produceSection, generalSection, frozenSection, cashierSection);
+            Customer customer = new Customer(i, waitingRoom, produceSection, generalSection, frozenSection, cashierSection, waitingMutex, produceMutex, generalMutex, frozenMutex, cashierMutex);
             Thread thread = new Thread(customer);
             threads.add(thread);
             customer.setThread(thread);
@@ -124,7 +124,7 @@ public class GroceryStore{
     private static int numInCash = 0;
 
         Customer(int id, Semaphore Swait, Semaphore Sproduce,
-                    Semaphore Sgeneral, Semaphore Sfrozen, Semaphore Scashier){
+                    Semaphore Sgeneral, Semaphore Sfrozen, Semaphore Scashier, Semaphore Mwait, Semaphore Mproduce, Semaphore Mgeneral, Semaphore Mfrozen, Semaphore Mcashier){
 
             this.id = id;
             this.Swait = Swait;
@@ -132,6 +132,12 @@ public class GroceryStore{
             this.Sgeneral = Sgeneral;
             this.Sfrozen = Sfrozen;
             this.Scashier = Scashier;
+            this.Mwait = Mwait;
+            this.Mproduce = Mproduce;
+            this.Mgeneral = Mgeneral;
+            this.Mfrozen = Mfrozen;
+            this.Mcashier = Mcashier;
+
 
             
             
